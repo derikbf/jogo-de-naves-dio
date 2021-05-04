@@ -29,5 +29,5 @@ Para iniciar o jogo basta executar o arquivo index.html em um navegador de inter
 |------------------------------------|:------:|
 | Mover helicóptero para cima        |   "W"  |
 | Disparar míssil                    |   "D"  |
-| Mover helicoptero para baixo       |   "A"  |
+| Mover helicoptero para baixo       |   "S"  |
 
