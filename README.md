@@ -21,3 +21,13 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [jQuery](https://jquery.com/)
 
+## Como jogar
+Para iniciar o jogo basta executar o arquivo index.html em um navegador de internet a partir de uma cópia do repositório em um diretório local.
+
+### Controles
+| Comando                            |  Tecla |
+|------------------------------------|:------:|
+| Mover helicóptero para cima        |   "W"  |
+| Disparar míssil                    |   "D"  |
+| Mover helicoptero para baixo       |   "A"  |
+
